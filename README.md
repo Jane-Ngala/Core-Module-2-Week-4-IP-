@@ -1,5 +1,5 @@
 # Core-Module-2-Week-4-IP-
-## This week's project requires us to implement a K-nearest neighbor (kNN) classifier  and a Naive Bayes classifier. Once we conduct the experiments, we will calculate the resulting metrics:
+## This week's project requires us to implement a K-nearest neighbor (KNN) classifier  and a Naive Bayes classifier. Once we conduct the experiments, we will calculate the resulting metrics:
 ## Experimental Procedure:
 
 ### Download the two datasets from the given links:
