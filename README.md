@@ -7,9 +7,11 @@ This week's project requires us to implement a K-nearest neighbor (KNN) classifi
 ## Experimental Procedure:
 
 - Download the two datasets from the given links:
-Dataset 1 Source: [Link] 
 
-Dataset 2 Source: [Link]
+
+    Dataset 1 Source: [Link] 
+
+    Dataset 2 Source: [Link]
 
 - Randomly partition each dataset into two parts i.e 80 - 20  sets.
 
