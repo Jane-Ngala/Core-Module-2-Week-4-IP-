@@ -1,5 +1,5 @@
 # Titanic Survivors / Spam Detection
-<img src="https://user-images.githubusercontent.com/73166515/200243311-c7b1d9dc-999d-424e-8d18-dc24e7f3a559.png)" width="950" height="550" />
+<img src="https://user-images.githubusercontent.com/73166515/200243311-c7b1d9dc-999d-424e-8d18-dc24e7f3a559.png" width="950" height="550" />
 
 
 ## This week's project requires us to implement a K-nearest neighbor (KNN) classifier  and a Naive Bayes classifier. Once we conduct the experiments, we will calculate the resulting metrics:
